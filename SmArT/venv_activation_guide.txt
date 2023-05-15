@@ -1,0 +1,5 @@
+1st step (optional) : run ->  pip install virtualenv
+2nd step: run ->  python -m venv venv    [if you face any command not found like thing, you can replace python with python3 or python3.x, where x is the version after 3]
+3rd step (for windows): run ->  venv\Scripts\activate
+3rd step (for mac/linux): run ->  source venv/bin/activate
+4th step: run ->  pip install -r requirements.txt
